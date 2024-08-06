@@ -12,6 +12,7 @@ Welcome to my repository of LeetCode solutions! Here, you'll find my solutions t
 | biweekly 136   | No. of winning|O(n)           |https://leetcode.com/problems/find-the-number-of-winning-players/description/
 | weekly 136     | No. of winning|O(n)           |https://leetcode.com/problems/design-neighbor-sum-service/description/
 |703             |Kth Largest    |O(log(n))      |https://leetcode.com/problems/kth-largest-element-in-a-stream/description/
+|1046            |Last Stone     |O(n)           |https://leetcode.com/problems/last-stone-weight/description/
 
 ### Medium Problems
 
