@@ -19,7 +19,8 @@ Welcome to my repository of LeetCode solutions! Here, you'll find my solutions t
 | Problem Number | Problem Title | Time Complex  | LeetCode Link |
 |----------------|---------------|---------------|---------------|
 | biweekly 136   | No. of Flips 1|O(n)           |https://leetcode.com/problems/find-the-number-of-winning-players/description/](https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-i/description/
-| 853            | Car Fleet     |O(n            |https://leetcode.com/problems/car-fleet/description/               
+| 853            | Car Fleet     |O(n)           |https://leetcode.com/problems/car-fleet/description/ 
+| 973            |k Closest Point|O(nlog(k))     |https://leetcode.com/problems/k-closest-points-to-origin/submissions/1346209610/
 
 ### Hard Problems
 
