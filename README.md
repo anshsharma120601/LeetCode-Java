@@ -28,4 +28,4 @@ Welcome to my repository of LeetCode solutions! Here, you'll find my solutions t
 | Problem Number | Problem Title | Time Complex  | LeetCode Link |
 |----------------|---------------|---------------|---------------|
 | 84             |Largest Rec His|               |https://leetcode.com/problems/largest-rectangle-in-histogram/description/               
-| 2              |               |               |               
+| 295            |Median Data Str|O(logN) + O(1) |https://leetcode.com/problems/find-median-from-data-stream/submissions/1349746001/               
