@@ -14,6 +14,7 @@ Welcome to my repository of LeetCode solutions! Here, you'll find my solutions t
 |703             |Kth Largest    |O(log(n))      |https://leetcode.com/problems/kth-largest-element-in-a-stream/description/
 |1046            |Last Stone     |O(n)           |https://leetcode.com/problems/last-stone-weight/description/
 |121             |Best Time to bu|O(n)           |https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+|704             |Binary search  |O(log(n))      |https://leetcode.com/problems/binary-search/description/
 
 ### Medium Problems
 
