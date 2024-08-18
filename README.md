@@ -26,6 +26,8 @@ Welcome to my repository of LeetCode solutions! Here, you'll find my solutions t
 | 973            |k Closest Point|O(nlog(k))     |https://leetcode.com/problems/k-closest-points-to-origin/submissions/1346209610/
 | 621            |Task Scheduler |O(nlog(n))     |https://leetcode.com/problems/task-scheduler/submissions/1347085106/
 | 3              |Longest Substr |O(n)           |https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/1350458288/
+| Biweekly 137   |K Size Subarra |O(n^2)         |https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/description/
+
 
 ### Hard Problems
 
