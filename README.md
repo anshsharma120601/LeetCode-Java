@@ -16,6 +16,8 @@ Welcome to my repository of LeetCode solutions! Here, you'll find my solutions t
 |121             |Best Time to bu|O(n)           |https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 |704             |Binary search  |O(log(n))      |https://leetcode.com/problems/binary-search/description/
 |weekly410       |Matrix         |O(n^2)         |https://leetcode.com/contest/weekly-contest-410/problems/snake-in-matrix/description/
+|weekly411       |K-Constraint   |O(n)           |https://leetcode.com/contest/weekly-contest-411/problems/count-substrings-that-satisfy-k-constraint-i/submissions/1359765981/
+
 
 ### Medium Problems
 
