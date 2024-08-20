@@ -17,6 +17,7 @@ Welcome to my repository of LeetCode solutions! Here, you'll find my solutions t
 |704             |Binary search  |O(log(n))      |https://leetcode.com/problems/binary-search/description/
 |weekly410       |Matrix         |O(n^2)         |https://leetcode.com/contest/weekly-contest-410/problems/snake-in-matrix/description/
 |weekly411       |K-Constraint   |O(n)           |https://leetcode.com/contest/weekly-contest-411/problems/count-substrings-that-satisfy-k-constraint-i/submissions/1359765981/
+|1323            |Max 69         |O(n)           |https://leetcode.com/problems/maximum-69-number/description/
 
 
 ### Medium Problems
