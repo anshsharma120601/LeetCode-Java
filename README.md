@@ -31,7 +31,7 @@ Welcome to my repository of LeetCode solutions! Here, you'll find my solutions t
 | 3              |Longest Substr |O(n)           |https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/1350458288/
 | Biweekly 137   |K Size Subarra |O(n^2)         |https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/description/
 |424             |longest repeat |O(26n) = O(n)  |https://leetcode.com/problems/longest-repeating-character-replacement/description/
-
+|153             |Roated Array   |O(logn)        |https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
 
 ### Hard Problems
 
