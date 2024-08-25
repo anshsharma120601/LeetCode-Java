@@ -18,6 +18,7 @@ Welcome to my repository of LeetCode solutions! Here, you'll find my solutions t
 |weekly410       |Matrix         |O(n^2)         |https://leetcode.com/contest/weekly-contest-410/problems/snake-in-matrix/description/
 |weekly411       |K-Constraint   |O(n)           |https://leetcode.com/contest/weekly-contest-411/problems/count-substrings-that-satisfy-k-constraint-i/submissions/1359765981/
 |1323            |Max 69         |O(n)           |https://leetcode.com/problems/maximum-69-number/description/
+|Weekly 412      |K Mul Operation|O(k*n)         |https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/description/
 
 
 ### Medium Problems
@@ -32,6 +33,7 @@ Welcome to my repository of LeetCode solutions! Here, you'll find my solutions t
 | Biweekly 137   |K Size Subarra |O(n^2)         |https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/description/
 |424             |longest repeat |O(26n) = O(n)  |https://leetcode.com/problems/longest-repeating-character-replacement/description/
 |153             |Roated Array   |O(logn)        |https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
+|Weekly 412      |Equal Pair 1   |O(n^2)         |https://leetcode.com/problems/count-almost-equal-pairs-i/description/
 
 ### Hard Problems
 
