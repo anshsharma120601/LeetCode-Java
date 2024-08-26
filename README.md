@@ -34,6 +34,7 @@ Welcome to my repository of LeetCode solutions! Here, you'll find my solutions t
 |424             |longest repeat |O(26n) = O(n)  |https://leetcode.com/problems/longest-repeating-character-replacement/description/
 |153             |Roated Array   |O(logn)        |https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
 |Weekly 412      |Equal Pair 1   |O(n^2)         |https://leetcode.com/problems/count-almost-equal-pairs-i/description/
+|981             |Time Key-Value |O(log(n))      |https://leetcode.com/problems/time-based-key-value-store/submissions/1369409881/
 
 ### Hard Problems
 
